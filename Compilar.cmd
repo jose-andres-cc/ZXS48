@@ -1,0 +1,1 @@
+javac -cp target -d target -encoding UTF-8 src\emulator\*.java

@@ -1,0 +1,1 @@
+javac -cp target;target\aux_classes -d target\aux_classes -encoding UTF-8 src\aux_code\*.java
